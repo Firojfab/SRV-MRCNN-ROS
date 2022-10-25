@@ -22,7 +22,7 @@ Requires:
 1. Ubuntu 18.4
 2. ROS Melodic
 3. Nvidia GPU
-4. Python 2.7
+4. Python 3.7
 
 Installing dependencies with pip is recommended. A requirements.txt file is included in the project folder. To install the required dependencies inside a virtual environment run:
 
