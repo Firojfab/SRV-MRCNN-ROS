@@ -1,0 +1,7 @@
+#request
+sensor_msgs/Image img_req
+sensor_msgs/PointCloud2 cloudReq
+---
+# Image result used for visualisation
+Result result
+sensor_msgs/Image img_res
